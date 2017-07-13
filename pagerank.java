@@ -1,8 +1,8 @@
 /*
 
 This is Google pagerank algorithm  
-implemented in java out of 
-curiosity  
+implemented in java 
+  
  */
 package pageranking;
 
